@@ -6,12 +6,6 @@ This repository contains a script to install NVIDIA drivers and CUDA on AlmaLinu
 
 ---
 
-## Important — Secure Boot warning
-
-WARNING: This installation mode does NOT support Secure Boot. If Secure Boot is enabled in your firmware (UEFI), the NVIDIA kernel module will be blocked and the installation may fail or the driver will not load. Disable Secure Boot in your system firmware before running this installer.
-
----
-
 ## Overview
 
 This script automates common tasks required to install the NVIDIA proprietary driver and CUDA toolkit on AlmaLinux 10, including:
